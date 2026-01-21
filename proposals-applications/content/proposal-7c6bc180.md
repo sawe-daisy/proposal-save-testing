@@ -1,9 +1,0 @@
-```
-memberNumber
-memberNumber
-memberNumber
-memberNumber
-memberNumber
-memberNumber
-memberNumber
-```
